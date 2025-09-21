@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/virtualpet/static/css/main.87af2342.css",
+    "main.js": "/virtualpet/static/js/main.4a5ddc4c.js",
+    "static/js/23.460c9887.chunk.js": "/virtualpet/static/js/23.460c9887.chunk.js",
+    "index.html": "/virtualpet/index.html",
+    "main.87af2342.css.map": "/virtualpet/static/css/main.87af2342.css.map",
+    "main.4a5ddc4c.js.map": "/virtualpet/static/js/main.4a5ddc4c.js.map",
+    "23.460c9887.chunk.js.map": "/virtualpet/static/js/23.460c9887.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87af2342.css",
+    "static/js/main.4a5ddc4c.js"
+  ]
+}
